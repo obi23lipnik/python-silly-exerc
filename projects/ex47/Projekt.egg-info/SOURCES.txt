@@ -1,0 +1,7 @@
+setup.py
+Projekt.egg-info/PKG-INFO
+Projekt.egg-info/SOURCES.txt
+Projekt.egg-info/dependency_links.txt
+Projekt.egg-info/requires.txt
+Projekt.egg-info/top_level.txt
+ex47/__init__.py
